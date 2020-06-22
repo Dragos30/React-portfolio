@@ -1,0 +1,17 @@
+#links{
+  font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  align-items: center;
+  color: aliceblue;
+}
+#contact p{
+  color: aliceblue;
+  letter-spacing: 4px;
+}
+#links>a{
+  margin-bottom: 20px;
+  color:aliceblue;
+  border-radius: 20%;
+}
